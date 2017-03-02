@@ -1,6 +1,9 @@
 #dronerent
-Semangat Gaes !!!Iqbal Maolana 
-git commit file.nya -m "pesan commit Brill"
+Semangat Gaes !!!
+Iqbal Maolana 
+Brillian Ayub Septianus
 Bachtiar achmad irfan
-Azka Putra Pradana!!Semangat para penduduk
-UbaidAqrobua
+Azka Putra Pradana
+UbaidAqrobi
+Dicky
+Vichar
