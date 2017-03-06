@@ -1,9 +1,8 @@
-#dronerent
-Semangat Gaes !!!
-Iqbal Maolana 
-Brillian Ayub Septianus
-Bachtiar achmad irfan
-Azka Putra Pradana
-UbaidAqrobi
-Dicky
-Vichar
+Kelompok DroneRent
+- Brillian Ayub Septianus 
+- Iqbal Maolana 
+- Azka Putra Pradana 
+- Ahmad Vichar Aji 
+- Ahmad Ubaid Aqrobi
+- Bachtiar Achmad Irfan
+- Dicky Setiawan
