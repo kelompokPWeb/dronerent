@@ -60,7 +60,7 @@ while($rows=mysql_fetch_object($result)){
 <br></br><br></br><br></br><br></br><br></br><br></br><br></br><br></br><br></br><br></br><br></br><br></br><br></br><br></br>
 <br></br><br></br><br></br><br></br><br></br><br></br><br></br><br></br><br></br><br></br><br></br><br></br><br></br><br></br>
 <div class="footer">
-<marquee>Created by : Brillian Ayub S</marquee>
+<marquee>Created by : Drone Rent</marquee>
 </div>
 </body>
 </html>
