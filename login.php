@@ -6,21 +6,26 @@
 <body>
 <div class="wrap">
 <div class="head">
-Login administrator
+  <div align="center">Login administrator
+    
+  </div>
+  <div align="center"></div>
+  <div align="center"></div>
 </div>
 <div class="form">
 <form name="fform" action="aksi.php" method="post">
-Username : <br/>
-<input type="text" name="username"/>
-<br/>
-Password : <br/>
-<input type="password" name="password"/>
-<br/>
-<input type="submit" value="login" name="button"/>
+  <div align="center">Username : <br/>
+  <input type="text" name="username"/>
+  <br/>
+    Password : <br/>
+  <input type="password" name="password"/>
+  <br/>
+  <input type="submit" value="login" name="button"/>
+  </div>
 </form>
 </div>
 <div class="footer">
-COPYRIGHT 2015
+  <div align="center">Tugas Pemrograman Web Lanjut </div>
 </div>
 </div>
 </body>
