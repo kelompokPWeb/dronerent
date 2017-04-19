@@ -2,13 +2,13 @@
 <head>
 <link rel="stylesheet" type="text/css" href="style.css" >
 </head>
-<title>Rental Mobil Online</title>
+<title>Rental Drone</title>
 
 <body>
 <div class="header">
-Rental Mobil Bejo
+<div align="center">Rental Drone </div>
 <div class="kop">
-Jl.Ringroad Utara,Pogung Lor,Sleman,Yogyakarta
+  <div align="center">Yogyakarta </div>
 </div>
 </div>
 <div class="navigation">
