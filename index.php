@@ -23,7 +23,7 @@
   <tr>
     <td width="25">No</td>
     <td width="90">Gambar</td>
-    <td width="120">Nama Mobil</td>
+    <td width="120">Nama Drone</td>
     <td width="100">Tarif Sewa</td>
 	<td width="90">Edit</td>
   </tr>
